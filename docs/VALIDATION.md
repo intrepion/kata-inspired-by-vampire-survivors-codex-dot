@@ -5,7 +5,7 @@ Validation date: 5 November 2026. All browser gameplay testing uses an HTTP serv
 ## Local checks
 
 - `npm run check`: JavaScript syntax checks.
-- `npm test`: 32 deterministic mechanics tests, including seeded RNG, fixed-step timing, diagonal movement, modal pause, attack targeting, weapon rank data, inventory bounds, chest eligibility, XP/chest concurrency, pickups, Death, save sanitization, knockback, and bounded entity/cooldown lifetimes.
+- `npm test`: 33 tests: gallery integrity plus 32 deterministic mechanics tests, including seeded RNG, fixed-step timing, diagonal movement, modal pause, attack targeting, weapon rank data, inventory bounds, chest eligibility, XP/chest concurrency, pickups, Death, save sanitization, knockback, and bounded entity/cooldown lifetimes.
 - `npm run test:browser`: the production bundle, served on an ephemeral loopback HTTP port in pinned Playwright Chromium. Checks real WebGL boot; Arcade backlink; research guide; unaffordable powerup handling; Space activation of the start button; correct W/D movement; pause/resume; help interruption; retiring/retrying; quick-mode stage-clock rate; 390×844 mobile overflow and pointer drag direction. No debug state injection is used.
 - `npm run build`: production Vite bundle with locally bundled Three.js.
 - `npm audit`: zero known dependency vulnerabilities at this checkpoint.

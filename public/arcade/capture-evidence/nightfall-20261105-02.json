@@ -1,0 +1,34 @@
+{
+  "sourceCommit": "72b21b8efb08b8d69be0c7867deadac95f19ee1c",
+  "inputs": {
+    "assets/index-BjPC1Fbz.js": "c435c232edb3ea5a019c5b8188f1d2b3ff8fd8d56f71a92c4c4de70a0ba64b15",
+    "assets/index-DHl9Fs8N.css": "74b691180b0e6157b13b2a5af1d15e817e8601161a4a1e7df692a453b733524b",
+    "favicon.svg": "ab8dfb54ba3fc277f0843ef17d7f58204be53c1736c36f6eca48c49b58dcc74b",
+    "index.html": "83716d7233d8442a48b38c0a4f3660412bfad3fc103a710beb8e3b630c96cc21",
+    "licenses/three-LICENSE.txt": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  "capturedAt": "2026-11-05T06:18:07Z",
+  "baseUrl": "http://127.0.0.1:51401/",
+  "tool": {
+    "name": "Playwright",
+    "version": "1.63.0"
+  },
+  "browser": {
+    "name": "Chromium",
+    "version": "153.0.8010.12"
+  },
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "steps": [
+    "Serve the unchanged production dist build over http://127.0.0.1 on an ephemeral port.",
+    "Open a clean Chromium context at 1440 × 1000, en-US, UTC, device scale 1.",
+    "Fix Date at 2026-11-05T00:00:00Z for the public run seed, retaining normal timers.",
+    "Choose the Keeper using the public character selector, keep Classic mode, and click Enter the Night.",
+    "Survive with automatic aura attacks until collected XP triggers a real paused level-up."
+  ],
+  "clock": "2026-11-05T00:00:00Z",
+  "deployedBuild": null,
+  "notes": "Real public-control gameplay, locally served production artifact; browser pixels unedited. No save/state injection, no simulated screenshot, no deployed-build equivalence claimed."
+}

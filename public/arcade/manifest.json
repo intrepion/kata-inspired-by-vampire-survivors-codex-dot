@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "gameId": "kata-inspired-by-vampire-survivors-codex-dot",
+  "playUrl": "https://intrepion.github.io/kata-inspired-by-vampire-survivors-codex-dot/",
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/nightfall-20261105-01.jpg",
+      "sha256": "a5995cf10e58f5db5e765384861e2ea57d72dd0090aee77f5b3d031b3a3b9750",
+      "alt": "Nightfall Reliquary Classic gameplay in a procedural 3D graveyard, with automatic aura combat, pursuing enemies, experience gems, health, timer and inventory.",
+      "provenance": {
+        "kind": "local_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/nightfall-20261105-01.png",
+        "sourceSha256": "02cb5efed4c717cb210a72b6e20bf65cd84429b9c10b0f1959f9f32404233a3a",
+        "captureCommit": "72b21b8efb08b8d69be0c7867deadac95f19ee1c",
+        "inputHashes": {
+          "assets/index-BjPC1Fbz.js": "c435c232edb3ea5a019c5b8188f1d2b3ff8fd8d56f71a92c4c4de70a0ba64b15",
+          "assets/index-DHl9Fs8N.css": "74b691180b0e6157b13b2a5af1d15e817e8601161a4a1e7df692a453b733524b",
+          "favicon.svg": "ab8dfb54ba3fc277f0843ef17d7f58204be53c1736c36f6eca48c49b58dcc74b",
+          "index.html": "83716d7233d8442a48b38c0a4f3660412bfad3fc103a710beb8e3b630c96cc21",
+          "licenses/three-LICENSE.txt": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+        },
+        "capturedAt": "2026-11-05T06:18:07Z",
+        "captureRecordPath": "arcade/capture-evidence/nightfall-20261105-01.json",
+        "captureRecordSha256": "230588022c00e808e2076ac682458485558adbc80431844581e06bd576c9397d"
+      }
+    },
+    {
+      "path": "arcade/screenshots/nightfall-20261105-02.jpg",
+      "sha256": "ad829b18c0f2fb843cbc3424d4c7e03afbb01cc74aee45d9cb266d0cce160c4e",
+      "alt": "Nightfall Reliquary paused at a naturally earned level-up, offering weapon and passive cards over the moonlit battlefield.",
+      "provenance": {
+        "kind": "local_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/nightfall-20261105-02.png",
+        "sourceSha256": "a91c7837b2c26e279341e2bc2fcf35175984408d178901b5e667249d225e3f4a",
+        "captureCommit": "72b21b8efb08b8d69be0c7867deadac95f19ee1c",
+        "inputHashes": {
+          "assets/index-BjPC1Fbz.js": "c435c232edb3ea5a019c5b8188f1d2b3ff8fd8d56f71a92c4c4de70a0ba64b15",
+          "assets/index-DHl9Fs8N.css": "74b691180b0e6157b13b2a5af1d15e817e8601161a4a1e7df692a453b733524b",
+          "favicon.svg": "ab8dfb54ba3fc277f0843ef17d7f58204be53c1736c36f6eca48c49b58dcc74b",
+          "index.html": "83716d7233d8442a48b38c0a4f3660412bfad3fc103a710beb8e3b630c96cc21",
+          "licenses/three-LICENSE.txt": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+        },
+        "capturedAt": "2026-11-05T06:18:07Z",
+        "captureRecordPath": "arcade/capture-evidence/nightfall-20261105-02.json",
+        "captureRecordSha256": "c3250240f6b36180bb069bdd687eda9e55b6fd3021a42c348b3155980de1a59e"
+      }
+    }
+  ]
+}
